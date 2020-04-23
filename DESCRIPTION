@@ -1,0 +1,13 @@
+Package: MonteCarlo
+Type: Package
+Title: Different Functions For Running Monte Carlo Simulations
+Version: 0.1.0
+Author: Matthew Hudes
+Maintainer: The package maintainer is 
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.4.6)
+LinkingTo: Rcpp
